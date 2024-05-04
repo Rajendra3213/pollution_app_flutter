@@ -1,0 +1,21 @@
+gradle-wrapper.jar
+/.gradle/
+/captures/
+/gradlew
+/gradlew.bat
+/local.properties
+
+# Flutter
+GeneratedPluginRegistrant.java
+key.properties
+**/*.keystore
+**/*.jks
+
+# Flutter specific directories
+/macos/
+/linux/
+/build/
+/idea/
+/windows/
+/web/
+
